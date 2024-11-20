@@ -7,4 +7,8 @@ This repository includes a notebook with information of using Python, Pandas and
 
 - This data is meant for those interested in public health data relating to North Carolina counties. 
 
-- This repository is beneficial for anyone replicating the compiling of data from the County Health Data set using Python. 
+- This repository is beneficial for anyone replicating the compiling of data from the County Health Data set using Python.
+
+The following image represents the amount of uninsured adults in NC
+![image](https://github.com/user-attachments/assets/0dad9117-1414-4e9b-944e-b477afa8d386)
+
