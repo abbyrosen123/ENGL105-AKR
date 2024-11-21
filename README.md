@@ -13,6 +13,7 @@ This repository includes a notebook with information on using Python, Pandas and
 
 - To get help with this data, comment through a pull request or under the issues tab
 
-The following image represents the amount of uninsured adults in NC Counties 
-![image](https://github.com/user-attachments/assets/0dad9117-1414-4e9b-944e-b477afa8d386)
+The following image represents the amount of uninsured adults in NC Counties. This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
+![image](https://github.com/user-attachments/assets/440822fd-1f8d-4b7f-9943-b0057f2c4343)
+
 
