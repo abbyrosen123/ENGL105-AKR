@@ -12,7 +12,8 @@ This repository includes a notebook with information on using Python, Pandas and
 
 - This repository is maintained by Abby Rosenkrantz, any user may contribute!
 
-The following image represents the amount of uninsured adults in NC Counties. This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
-![image](https://github.com/user-attachments/assets/440822fd-1f8d-4b7f-9943-b0057f2c4343)
+The following image represents the amount of premature deaths in NC Counties. This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
+https://datawrapper.dwcdn.net/rxx2e/1/
+
 
 
