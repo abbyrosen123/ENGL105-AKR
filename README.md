@@ -1,5 +1,5 @@
-## ENGL105-AKR
-Analyzing North Carolina's public health data
+# ENGL105-AKR
+## Analyzing North Carolina's public health data
 
 This repository includes a notebook with information on using Python, Pandas and compiling data. Additionally, it includes compiled data about North Carolina’s public health data.  
 
