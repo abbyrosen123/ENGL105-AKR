@@ -10,6 +10,8 @@ This repository includes a notebook with information on using Python, Pandas and
 - To get started, users can download the dataset (in CSV format) and open it in a Google Colab notebook. The included notebook provides step-by-step instructions on how to import and manipulate the data using Python and Pandas. No advanced Python skills are necessary, but familiarity with Python basics will help users understand and modify the analysis.
 - Users can get help by opening an issue in the repository’s Issues tab or by commenting through a pull request. For general inquiries or troubleshooting, users are encouraged to reach out via these channels, where they can receive support from the repository maintainers or the community.
 
+- This repository is maintained by Abby Rosenkrantz, any user may contribute!
+
 The following image represents the amount of uninsured adults in NC Counties. This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
 ![image](https://github.com/user-attachments/assets/440822fd-1f8d-4b7f-9943-b0057f2c4343)
 
