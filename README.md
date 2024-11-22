@@ -13,9 +13,4 @@ This repository includes a notebook with information on using Python, Pandas and
 - This repository is maintained by Abby Rosenkrantz, any user may contribute!
 
 The following image represents the amount of premature deaths in NC Counties. This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
-<iframe title="Premature Deaths by County" aria-label="Interactive line chart" id="datawrapper-chart-rxx2e" src="https://datawrapper.dwcdn.net/rxx2e/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="395" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-
-
-
-
+![rxx2e-premature-deaths-by-county](https://github.com/user-attachments/assets/d06d4d4b-c59b-47da-a2f5-7b657800bf82)
