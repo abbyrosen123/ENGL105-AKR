@@ -16,7 +16,7 @@ Source of Data:
 - The visualizations and analyses can help identify health inequities and inform decisions for statewide health improvements.
 
 ## Data Visualization
-- The following image represents the amount of premature deaths in NC Counties.
+- The following visualization represents the amount of premature deaths in NC Counties.
 - This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
 ![rxx2e-premature-deaths-by-county](https://github.com/user-attachments/assets/d06d4d4b-c59b-47da-a2f5-7b657800bf82)
 
