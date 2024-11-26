@@ -23,7 +23,7 @@ Source of Data:
 
 # How to Use this Repository
 
-- To get started, users can download the dataset (in CSV format) and open it in a Google Colab notebook.
+- To get started, users can download the [County Public Health Data](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/data/CountyHealthData_2014-2015.csv) (in CSV format) and open it in a Google Colab notebook.
 - The included [notebook](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/analysis/feeder3_1%20(3).ipynb) provides step-by-step instructions on how to import and manipulate the data using Python and Pandas. No advanced Python skills are necessary, but familiarity with Python basics will help users understand and modify the analysis.
 
 # Need Help?
