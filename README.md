@@ -33,4 +33,5 @@ Source of Data:
 ## Acknowledgements
 
 - This repository is maintained by Abby Rosenkrantz, any user may contribute!
+- This repository was created for the Unit 3 Natural Sciences project in Professor Gotzler's english 105
 
