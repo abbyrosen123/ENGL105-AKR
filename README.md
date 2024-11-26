@@ -15,10 +15,16 @@ Source of Data:
 - It is especially useful for those looking to replicate the data compilation process or for researchers and analysts studying health trends in North Carolina.
 - The visualizations and analyses can help identify health inequities and inform decisions for statewide health improvements.
 
+# Data Visualization
+- The following image represents the amount of premature deaths in NC Counties.
+- This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
+![rxx2e-premature-deaths-by-county](https://github.com/user-attachments/assets/d06d4d4b-c59b-47da-a2f5-7b657800bf82)
+
+
 # How to Use this Repository
 
 - To get started, users can download the dataset (in CSV format) and open it in a Google Colab notebook.
-- The included notebook provides step-by-step instructions on how to import and manipulate the data using Python and Pandas. No advanced Python skills are necessary, but familiarity with Python basics will help users understand and modify the analysis.
+- The included [notebook](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/analysis/feeder3_1%20(3).ipynb) provides step-by-step instructions on how to import and manipulate the data using Python and Pandas. No advanced Python skills are necessary, but familiarity with Python basics will help users understand and modify the analysis.
 
 # Need Help?
 - Users can get help by opening an issue in the repository’s Issues tab or by commenting through a pull request.
@@ -28,7 +34,3 @@ Source of Data:
 
 - This repository is maintained by Abby Rosenkrantz, any user may contribute!
 
-# Data Visualization
-- The following image represents the amount of premature deaths in NC Counties.
-- This analysis can help show which counties have weaknesses, and where state wide improvements are necessary. 
-![rxx2e-premature-deaths-by-county](https://github.com/user-attachments/assets/d06d4d4b-c59b-47da-a2f5-7b657800bf82)
