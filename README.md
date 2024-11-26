@@ -27,7 +27,7 @@ Source of Data:
 - The included [notebook](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/analysis/feeder3_1%20(3).ipynb) provides step-by-step instructions on how to import and manipulate the data using Python and Pandas. No advanced Python skills are necessary, but familiarity with Python basics will help users understand and modify the analysis.
 
 # Need Help?
-- Users can get help by opening an issue in the repository’s Issues tab or by commenting through a pull request.
+- Users can get help by opening an [issue](https://github.com/abbyrosen123/ENGL105-AKR/issues) in the repository’s Issues tab or by commenting through a [pull request](https://github.com/abbyrosen123/ENGL105-AKR/pulls).
 - For general inquiries or troubleshooting, users are encouraged to reach out via these channels, where they can receive support from the repository maintainers or the community.
 
 # Acknowledgements
