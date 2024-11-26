@@ -1,9 +1,12 @@
-# ENGL105-AKR
-## Analyzing North Carolina's public health data
+# Analyzing North Carolina's Public Health Data
 
 This repository includes a notebook with information on using Python, Pandas and compiling data. Additionally, it includes compiled data about North Carolina’s public health data.  
 
-- The main County Health Data was downloaded as a CSV file from Professor Gotzler’s ENGL 105 site. The North Carolina Data Subset was compiled using Python, layed out in the notebook.  
+#Provenance
+Source of Data:
+- The main [County Public Health Data](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/data/CountyHealthData_2014-2015.csv) was downloaded as a CSV file from Professor Gotzler’s ENGL 105 site.
+- The [North Carolina Data Subset](https://github.com/abbyrosen123/ENGL105-AKR/blob/main/data/NC_subset.csv) was compiled using Python, layed out in the notebook.
+- 
 
 - This repository is valuable for anyone interested in public health analysis, particularly in the context of North Carolina. It provides an accessible way to explore and analyze public health data using Python. It is especially useful for those looking to replicate the data compilation process or for researchers and analysts studying health trends in North Carolina. The visualizations and analyses can help identify health inequities and inform decisions for statewide health improvements.
 
